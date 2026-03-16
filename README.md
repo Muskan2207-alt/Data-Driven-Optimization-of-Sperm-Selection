@@ -23,4 +23,4 @@ FILES INCLUDED:
 2- EDA with python.
 3- Pre-processed dataset.
 4- Statistical analysis SQL queries.
-5- PowerBI dashboard PDF.
+5- PowerBI dashboard file + PDF.
